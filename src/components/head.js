@@ -28,13 +28,13 @@ const Head = ({metadata}) => (
         <link rel="canonical" href="https://AnjaliSrivastava29.github.io"/>
         <meta name="description" content={metadata.description}/>
         <meta name="keywords" content={config.siteKeywords}/>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JJBG91P2EL"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JZBRTMD034"></script>
         <script>
             {`
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-JJBG91P2EL');
+              gtag('config', 'G-JZBRTMD034');
               `}
         </script>
         <meta name="google-site-verification" content={config.googleVerification}/>
