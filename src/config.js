@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://AnjaliSrivastava29.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-JZBRTMD034',
-  googleVerification: 'abcd',
+  googleVerification: 's-bhJWNJ8ygd57mIXHLUZjbghrUR1Ea8vL_kKgEey3c',
   name: 'Anjali Srivastava',
   location: 'Tempe, Arizona',
   email: 'asriva86@asu.edu',
