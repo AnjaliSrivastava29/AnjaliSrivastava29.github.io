@@ -6,7 +6,7 @@ module.exports = {
     'Anjali Srivastava, Anjali, Srivastava, AnjaliSrivastava29, software developer, software engineer, cloud engineer, devops engineer, ml engineer, web developer, python developer, fox, aws cic,  aws, cic, bangalore, ibm, iiit, iiitdmj',
   siteUrl: 'https://AnjaliSrivastava29.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'abcd',
+  googleAnalyticsID: 'G-JZBRTMD034',
   googleVerification: 'abcd',
   name: 'Anjali Srivastava',
   location: 'Tempe, Arizona',
