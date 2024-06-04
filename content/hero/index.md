@@ -1,7 +1,7 @@
 ---
 title: 'Hi, My name is'
 name: 'Anjali Srivastava'
-subtitle: 'and I do everything!'
+subtitle: 'and I am a Full Stack Developer'
 buttonText: 'Contact Me'
 ---
 
