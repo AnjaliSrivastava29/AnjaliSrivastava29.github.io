@@ -8,7 +8,7 @@ tech:
   - D3.js
   - CSS
 
-showInProjects: true
+showInProjects: false
 ---
 
 A pair of data visualizations that argue for opposing viewpoints, using the same base dataset.
