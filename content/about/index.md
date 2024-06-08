@@ -4,10 +4,11 @@ avatar: 'meme.png'
 skills:
   - Python, Bash
   - React.js, JavaScript
-  - HTML, CSS, Bootstrap, Streamlit
   - AWS & IBM Cloud Certified
   - Docker, Kubernetes & RedHat Openshift
-  - ArgoCD, Terraform, Jenkins, AWS CloudFormation (CI/CD)
+  - ML frameworks - Keras, TensorFlow, pandas, numpy
+  - ArgoCD, Terraform, Jenkins, AWS CloudFormation (CI/CD and IaC)
+  - HTML, CSS, Bootstrap, Streamlit
   - SQL & NoSQL databases
 
 ---
